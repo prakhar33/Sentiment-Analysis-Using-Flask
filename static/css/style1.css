@@ -1,0 +1,26 @@
+body{
+	background-color: #472D6A;
+}
+
+h1{
+	font-size:5em;
+	text-align: center;
+	color: #B2A3CF;
+	
+}
+
+.container{
+	width:50%;
+	margin:0 auto;
+}
+
+p{
+	text-align: center;
+	font-size: 1.5em;
+	color: #ffffff;
+
+}
+
+hr{
+	margin-top: 50px;
+}
